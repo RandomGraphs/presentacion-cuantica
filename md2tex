@@ -1,0 +1,2 @@
+ pandoc pre.md -t beamer -o pre.tex --bibliography=main.bib --biblatex --standalone
+

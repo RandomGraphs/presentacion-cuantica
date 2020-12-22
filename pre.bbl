@@ -1,0 +1,259 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Aaronson2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9709fc1390d4ac82cbad7750d99484bf}{%
+           family={Aaronson},
+           familyi={A\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{9709fc1390d4ac82cbad7750d99484bf}
+      \strng{fullhash}{9709fc1390d4ac82cbad7750d99484bf}
+      \strng{bibnamehash}{9709fc1390d4ac82cbad7750d99484bf}
+      \strng{authorbibnamehash}{9709fc1390d4ac82cbad7750d99484bf}
+      \strng{authornamehash}{9709fc1390d4ac82cbad7750d99484bf}
+      \strng{authorfullhash}{9709fc1390d4ac82cbad7750d99484bf}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Physics}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Read the fine print}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{291\bibrangedash 293}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/nphys3272
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nphys3272
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nphys3272
+      \endverb
+    \endentry
+    \entry{Grover96}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=619ef89ee12058aba6b0df9b17b11ca3}{%
+           family={Grover},
+           familyi={G\bibinitperiod},
+           given={Lov\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia, Pennsylvania, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{fullhash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{bibnamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authorbibnamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authornamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authorfullhash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Twenty-Eighth Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{0897917855}
+      \field{series}{STOC '96}
+      \field{title}{A Fast Quantum Mechanical Algorithm for Database Search}
+      \field{year}{1996}
+      \field{pages}{212\bibrangedash 219}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/237814.237866
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/237814.237866
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/237814.237866
+      \endverb
+    \endentry
+    \entry{harrow2020small}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6bc7275eb8de2a3404fd3f07e6c21a2a}{%
+           family={Harrow},
+           familyi={H\bibinitperiod},
+           given={Aram\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \strng{fullhash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \strng{bibnamehash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \strng{authorbibnamehash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \strng{authornamehash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \strng{authorfullhash}{6bc7275eb8de2a3404fd3f07e6c21a2a}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{Small quantum computers and large classical data sets}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2004.00026
+      \endverb
+    \endentry
+    \entry{Harrow2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6bc7275eb8de2a3404fd3f07e6c21a2a}{%
+           family={Harrow},
+           familyi={H\bibinitperiod},
+           given={Aram\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3765d849007f662dc14f33a696aa6a7b}{%
+           family={Hassidim},
+           familyi={H\bibinitperiod},
+           given={Avinatan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=501c0933970931f080455b29b43e560d}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society (APS)}%
+      }
+      \strng{namehash}{3b3176c8c71f2d0502e9279289094069}
+      \strng{fullhash}{3b3176c8c71f2d0502e9279289094069}
+      \strng{bibnamehash}{3b3176c8c71f2d0502e9279289094069}
+      \strng{authorbibnamehash}{3b3176c8c71f2d0502e9279289094069}
+      \strng{authornamehash}{3b3176c8c71f2d0502e9279289094069}
+      \strng{authorfullhash}{3b3176c8c71f2d0502e9279289094069}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1079-7114}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{10}
+      \field{number}{15}
+      \field{title}{Quantum Algorithm for Linear Systems of Equations}
+      \field{volume}{103}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1103/physrevlett.103.150502
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1103/PhysRevLett.103.150502
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1103/PhysRevLett.103.150502
+      \endverb
+    \endentry
+    \entry{ORiordan2020AHC}{article}{}
+      \name{author}{4}{}{%
+        {{hash=35f2b6df45796e9734946517bb92b093}{%
+           family={O'Riordan},
+           familyi={O\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=38258310fc96ead3fd35ba62c5390947}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9cda9e5f2439d2f72c0c34fef5b13d97}{%
+           family={Baruffa},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0a770ed21eddb9d8ffbba23c451625e1}{%
+           family={Kannan},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{15bc6b6d448fcbddef73ce6298c5f67c}
+      \strng{fullhash}{693333b0f1e2ed78187dfdc27827d46f}
+      \strng{bibnamehash}{15bc6b6d448fcbddef73ce6298c5f67c}
+      \strng{authorbibnamehash}{15bc6b6d448fcbddef73ce6298c5f67c}
+      \strng{authornamehash}{15bc6b6d448fcbddef73ce6298c5f67c}
+      \strng{authorfullhash}{693333b0f1e2ed78187dfdc27827d46f}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{A hybrid classical-quantum workflow for natural language processing}
+      \field{volume}{abs/2004.06800}
+      \field{year}{2020}
+    \endentry
+    \entry{tomesh2020coreset}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=1adb469c4a0a4ad3b690a85068ae396a}{%
+           family={Tomesh},
+           familyi={T\bibinitperiod},
+           given={Teague},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f81b959a274cf858af12371d973186a4}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod}}}%
+        {{hash=becd75e819ad146c40fab5e183ae63af}{%
+           family={Anschuetz},
+           familyi={A\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3dc30ce8848da64646a981d48b5d2701}{%
+           family={Chong},
+           familyi={C\bibinitperiod},
+           given={Frederic\bibnamedelima T.},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e5a2982b9aeb68f042e1dae7d6bd172}
+      \strng{fullhash}{b30dfadfbe7bbb9759c2dadbb5eed350}
+      \strng{bibnamehash}{4e5a2982b9aeb68f042e1dae7d6bd172}
+      \strng{authorbibnamehash}{4e5a2982b9aeb68f042e1dae7d6bd172}
+      \strng{authornamehash}{4e5a2982b9aeb68f042e1dae7d6bd172}
+      \strng{authorfullhash}{b30dfadfbe7bbb9759c2dadbb5eed350}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{Coreset Clustering on Small Quantum Computers}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2004.14970
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

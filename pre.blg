@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:307> INFO - Logfile is 'pre.blg'
+[194] biber:322> INFO - === Fri Dec  4, 2020, 07:37:36
+[257] Biber.pm:415> INFO - Reading 'pre.bcf'
+[531] Biber.pm:943> INFO - Found 6 citekeys in bib section 0
+[583] Biber.pm:4256> INFO - Processing section 0
+[585] Utils.pm:75> INFO - Globbing data source 'main.bib'
+[585] Utils.pm:91> INFO - Globbed data source 'main.bib' to main.bib
+[617] Biber.pm:4455> INFO - Looking for bibtex format file 'main.bib' for section 0
+[619] bibtex.pm:1653> INFO - LaTeX decoding ...
+[647] bibtex.pm:1471> INFO - Found BibTeX data source 'main.bib'
+[753] Utils.pm:304> WARN - month field 'Oct' in entry 'Harrow2009' is not an integer - this will probably not sort properly.
+[856] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[856] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[856] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[857] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[883] bbl.pm:652> INFO - Writing 'pre.bbl' with encoding 'UTF-8'
+[893] bbl.pm:755> INFO - Output to pre.bbl
+[893] Biber.pm:128> INFO - WARNINGS: 1
